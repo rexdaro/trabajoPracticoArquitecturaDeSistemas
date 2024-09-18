@@ -1,0 +1,4 @@
+[37, 38, 35, 9, 46, 20, 36, 13, 38, 3]
+La temperatura promedio fue: 27.5
+La temperatura mayor fue: 46
+La temperatura menor fue: 3

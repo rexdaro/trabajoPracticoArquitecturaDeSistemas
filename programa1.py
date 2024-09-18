@@ -16,5 +16,5 @@ if isinstance(var1, str):
 
 print(var1)
 
-with open('archivo.txt', 'w') as archivo:
+with open('archivo1.txt', 'w') as archivo:
     archivo.write(var1)
